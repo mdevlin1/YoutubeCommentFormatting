@@ -1,0 +1,18 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.comment {
+    border: 1px solid #eff0f1;
+    background-color: #eff0f1;
+    width: 800px;
+    margin: 0 auto;
+    /*
+    margin-left: 10%;
+    margin-right: 10%;
+    */
+}
+
+.reply {
+
+}
